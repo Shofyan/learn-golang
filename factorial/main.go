@@ -1,9 +1,5 @@
 package main
 
-func main() {
-
-}
-
 func FactorialFor(num int) (o int) {
 
 	if num <= 1 {
